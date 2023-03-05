@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
-	int n,a,b,c,d;
+    int n,a,b,c,d;
     double z;
     a=n/1000;
     b=n/100-a*10;
