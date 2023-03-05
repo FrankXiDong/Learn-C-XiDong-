@@ -1,6 +1,5 @@
-//c++ ��λ����λ
-//n�������λ����λ��
-//a,b,c,d�ֱ����ǧλ����λ��ʮλ����λ
+//n代表需拆位的四位数
+//a,b,c,d分别代表千位、百位、十位、个位
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
