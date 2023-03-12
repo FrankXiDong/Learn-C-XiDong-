@@ -4,7 +4,7 @@
 using namespace std;
 int main() {
     int n,a,b,c,d;
-    double z;
+    cin>>n;
     a=n/1000;
     b=n/100-a*10;
     c=n/10-a*100-b*10;
